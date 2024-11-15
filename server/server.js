@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 8000;
 //cors polcy issue
 // Proper CORS configuration
 const corsOptions = {
-  origin: 'http://localhost:5173', 
+  origin: 'https://lyz-crazy-mern.vercel.app', 
   methods: ['GET', 'POST', 'DELETE', 'PUT', 'PATCH', 'HEAD'], 
   credentials: true, 
 };
