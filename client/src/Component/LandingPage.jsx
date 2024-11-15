@@ -623,9 +623,9 @@ const LandingPage = () => {
                 <div className="mt-6">
                   <button
                     type="submit"
-                    className="w-full bg-blue-700 hover:bg-blue-800 text-white py-2 px-4 rounded-lg text-lg"
+                    className="w-full bg-blue-900 hover:bg-blue-800 text-white py-2 px-4 rounded-lg text-lg"
                   >
-                    Sign Up
+                    SIGNUP
                   </button>
                 </div>
               </form>
